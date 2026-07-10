@@ -1,4 +1,4 @@
-<strong> RAG-Based-Document-Search-Application </strong>
+<strong> Agentic RAG Document Search Application </strong>
 
 <strong>Features:</strong>
 
