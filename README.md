@@ -1,4 +1,5 @@
 <strong> Agentic RAG Document Search Application </strong>
+<strong>Agentic RAG System for Intelligent Document Analysis</strong>
 
 <strong>Features:</strong>
 
